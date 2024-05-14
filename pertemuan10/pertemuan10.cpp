@@ -19,6 +19,8 @@ private:
 };
 
 int mahasiswa::nim = 224;
+void mahasiswa::setID()
+
 
 
 int main()
