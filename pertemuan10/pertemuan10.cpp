@@ -7,7 +7,9 @@ class mahasiswa
 {
 private:
     static int nim;
-   
+    int id;
+    string nama;
+
 
 };
 
