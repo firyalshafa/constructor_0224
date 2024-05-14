@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "overloading constructor", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "destructor", "destructor\destructor.vcxproj", "{4BCA4834-0B7A-431C-8D66-B5369391DECF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chain function", "chain function\chain function.vcxproj", "{F240DDE8-B976-4B45-82DD-E39E4EB51927}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{4BCA4834-0B7A-431C-8D66-B5369391DECF}.Release|x64.Build.0 = Release|x64
 		{4BCA4834-0B7A-431C-8D66-B5369391DECF}.Release|x86.ActiveCfg = Release|Win32
 		{4BCA4834-0B7A-431C-8D66-B5369391DECF}.Release|x86.Build.0 = Release|Win32
+		{F240DDE8-B976-4B45-82DD-E39E4EB51927}.Debug|x64.ActiveCfg = Debug|x64
+		{F240DDE8-B976-4B45-82DD-E39E4EB51927}.Debug|x64.Build.0 = Debug|x64
+		{F240DDE8-B976-4B45-82DD-E39E4EB51927}.Debug|x86.ActiveCfg = Debug|Win32
+		{F240DDE8-B976-4B45-82DD-E39E4EB51927}.Debug|x86.Build.0 = Debug|Win32
+		{F240DDE8-B976-4B45-82DD-E39E4EB51927}.Release|x64.ActiveCfg = Release|x64
+		{F240DDE8-B976-4B45-82DD-E39E4EB51927}.Release|x64.Build.0 = Release|x64
+		{F240DDE8-B976-4B45-82DD-E39E4EB51927}.Release|x86.ActiveCfg = Release|Win32
+		{F240DDE8-B976-4B45-82DD-E39E4EB51927}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
