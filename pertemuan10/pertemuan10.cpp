@@ -16,10 +16,10 @@ private:
         nama = pnama;
         setID();
     }
-
-
-
 };
+
+int mahasiswa::nim = 224;
+
 
 int main()
 {
