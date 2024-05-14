@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pertemuan10", "pertemuan10\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "static function", "static function\static function.vcxproj", "{EA564F36-C42B-47F5-9FF9-62C91D8C14C9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "overloading constructor", "overloading constructor\overloading constructor.vcxproj", "{425C8D3F-BCC5-419B-8225-1879B18974F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{EA564F36-C42B-47F5-9FF9-62C91D8C14C9}.Release|x64.Build.0 = Release|x64
 		{EA564F36-C42B-47F5-9FF9-62C91D8C14C9}.Release|x86.ActiveCfg = Release|Win32
 		{EA564F36-C42B-47F5-9FF9-62C91D8C14C9}.Release|x86.Build.0 = Release|Win32
+		{425C8D3F-BCC5-419B-8225-1879B18974F4}.Debug|x64.ActiveCfg = Debug|x64
+		{425C8D3F-BCC5-419B-8225-1879B18974F4}.Debug|x64.Build.0 = Debug|x64
+		{425C8D3F-BCC5-419B-8225-1879B18974F4}.Debug|x86.ActiveCfg = Debug|Win32
+		{425C8D3F-BCC5-419B-8225-1879B18974F4}.Debug|x86.Build.0 = Debug|Win32
+		{425C8D3F-BCC5-419B-8225-1879B18974F4}.Release|x64.ActiveCfg = Release|x64
+		{425C8D3F-BCC5-419B-8225-1879B18974F4}.Release|x64.Build.0 = Release|x64
+		{425C8D3F-BCC5-419B-8225-1879B18974F4}.Release|x86.ActiveCfg = Release|Win32
+		{425C8D3F-BCC5-419B-8225-1879B18974F4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
